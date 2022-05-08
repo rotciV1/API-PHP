@@ -26,6 +26,8 @@ Executa o comando INSERT para inserção de um novo registro na tabela. Para a c
 Executa o comando DELETE para exclusão de um determinado registro da tabela. Para a chamada do método delete() é necessário o arquivo delete.php com os dados recebidos no formato JSON.
   
   ![metododelete](https://user-images.githubusercontent.com/61744538/167320087-155360cd-5f6c-4d33-b217-ccb2ae0e8600.png)
+  
+  !! Todos os arquivos citados acima estão presentes na pasta API.
 
 
 
