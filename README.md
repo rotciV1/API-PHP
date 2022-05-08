@@ -2,7 +2,8 @@
 Rest API desenvolvida em PHP para um projeto de aula.
 
 ## Métodos
-  read() - Execcuta uma query retornando os dados de todo os registros da tabela alunos. Para a chamada do método read() e elaboração da resposta em JSON é necessário o arquivo read.php.
+  ### read()
+Execcuta uma query retornando os dados de todo os registros da tabela alunos. Para a chamada do método read() e elaboração da resposta em JSON é necessário o arquivo read.php.
    
   ![metodoread](https://user-images.githubusercontent.com/61744538/167319753-b53a3b96-0480-4992-a753-7ac367f9f777.JPG)
 
