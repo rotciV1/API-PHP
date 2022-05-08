@@ -27,7 +27,7 @@ Executa o comando DELETE para exclusão de um determinado registro da tabela. Pa
   
   ![metododelete](https://user-images.githubusercontent.com/61744538/167320087-155360cd-5f6c-4d33-b217-ccb2ae0e8600.png)
   
-  !! Todos os arquivos citados acima estão presentes na pasta API.
+  !! Todos os arquivos citados acima estão presentes em API > ALUNO
 
 
 
