@@ -1,5 +1,5 @@
 # API-PHP
-Rest API desenvolvida em PHP para um projeto de aula.
+Rest API para manipulação de registros em um banco de dados desenvolvida em PHP para um projeto de aula.
 
 ## Métodos
   ### read()
@@ -27,9 +27,13 @@ Executa o comando DELETE para exclusão de um determinado registro da tabela. Pa
   
   ![metododelete](https://user-images.githubusercontent.com/61744538/167320087-155360cd-5f6c-4d33-b217-ccb2ae0e8600.png)
   
-  !! Todos os arquivos citados acima estão presentes em API > ALUNO
+ 
+ 
+ ### Todos os arquivos citados acima estão presentes em API > ALUNO
 
+## Testes
 
+Para testes utilizar o script presete no reposiório e alterar os dados de acesso ao banco de dados presentes na classe Database.php 
 
   
   
